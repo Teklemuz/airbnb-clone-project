@@ -38,12 +38,13 @@ To have adequate knowledge and skills to implement any type of system and to
 - User Authentication: Secure login and registration for users.
   
 
-  | **Page**                  | **Description**                                                                                                                                                                                                                                                                                                             |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Property Listing View**  | This page displays a list of available properties with relevant details and images. |
-| **Listing Detailed View**  | This page provides more detailed information about a specific property. |
-| **Simple Checkout View**   | This page allows users to review the details of their booking, including the property, dates, total price, and any applicable taxes. |
+| View Name               | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Property Listing View** | This page displays a list of available properties with relevant details and images. |
+| **Listing Detailed View** | This page provides more detailed information about a specific property.   |
+| **Simple Checkout View** | This page allows users to review the details of their booking, including the property, dates, total price, and any applicable taxes. |
 
-  #### Importance of a user-friendly design in a booking system:
+
+  #### Importance of a user-friendly design in a booking system
 
   A user-friendly design provides a seamless experience and increases user satisfaction. It makes navigation intuitive, and ensures users can easily book properties. A well-designed, responsive platform builds trust and encourages repeat usage, leading to higher retention and engagement.
