@@ -23,14 +23,18 @@ The Airnob clone project is to give practical experience in developing a simple 
    The goal of the UI/UX design for this AirBnB clone is to ensure that users have a friendly and engaging experience when interacting with the platform. 
 
 #### Color Styles
-The following color styles are used in the design:
+    The following color styles are used in the design:
+    
 **Primary Color**:`#34967C` (A vibrant green color used for call-to-action buttons and highlights).
+
 **Secondary Color**:  `#444444` (A dark grey color used for secondary text and elements).
+
 **Secondary color**: 'FF8C00' (A shade of orange that can be used for secondary actions, buttons, or highlights).
+
 **Shimmer Color**: `A linear' (shimmer effect using white and light grey to create a glowing, highlighted look).
 
 #### Typography
-The typography is designed to provide readability.
+   The typography is designed to provide readability.
 
 **Heading 1**:
   - **Font Family**: `Quicksand`
@@ -83,6 +87,7 @@ The typography is designed to provide readability.
  #### Project Roles and Responsibilities
 
 **Project Manager**: The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
+
     Key Responsibilities:
 - Oversee project progress and ensure milestones are met.
 - Facilitate communication within the team.
@@ -91,7 +96,8 @@ The typography is designed to provide readability.
 - Serve as the primary point of contact for stakeholders.
 
    **Frontend Developers**: Frontend developers focus on the client-side of the application, ensuring a smooth and engaging user experience.
-       Key Responsibilities:
+  
+        Key Responsibilities:
     - Implement UI/UX designs using HTML, CSS, and JavaScript.
     - Develop React components and integrate them with backend APIs.
     - Ensure the application is responsive and performs well on various devices.
@@ -99,7 +105,8 @@ The typography is designed to provide readability.
     - Optimize the application for maximum speed and scalability.
 
    **Backend Developers**: Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
-       Key Responsibilities:
+
+        Key Responsibilities:
     - Develop and maintain server-side logic using languages such as Python, Node.js, or Java.
     - Design and manage databases.
     - Create and maintain APIs for frontend integration.
@@ -153,7 +160,7 @@ The typography is designed to provide readability.
 
 
 #### UI Component Patterns
-    These components are reusable building blocks that ensure consistency and efficiency across the application.
+   These components are reusable building blocks that ensure consistency and efficiency across the application.
   
 **Navbar**: the main navigation tool for the site. It helps users quickly access the most important sections of the application, such as search and login pages.
 
