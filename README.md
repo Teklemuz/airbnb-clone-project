@@ -145,3 +145,15 @@ To have adequate knowledge and skills to implement any type of system and to
      - Foster a collaborative and productive team environment.
      - Coach the team on Agile principles and practices.
      - Ensure continuous improvement within the team.
+
+
+#### UI Component Patterns
+- These components are reusable building blocks that ensure consistency and efficiency across the application.
+  
+**Navbar**: the main navigation tool for the site. It helps users quickly access the most important sections of the application, such as search and login pages.
+
+**Property Card**: This will display information about individual listings. It serves as the first introduction to properties on search results or category pages.
+
+**Footer** : This will be located at the bottom of every page and this will contain additional links and information such as privacy policies and contact details.
+
+**Search Bar**: This allows users to input their search criteria, such as location, date, and number of guests.
