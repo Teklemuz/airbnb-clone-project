@@ -4,7 +4,7 @@
 The Airnob clone project is to give practical experience in developing a simple booking and management system using AirBnB as a case study. A good booking system should have a simple but lovely UI/UX that allows users to perform basic functionalities.        
 
 ## Project Goals
-To develope adequate knowledge and skills to implement any type of system and to fulfill the following requirements.
+   To develope adequate knowledge and skills to implement any type of system and to fulfill the following requirements.
 - Understand the project scope.
 - Identify key features to be implemented.
 - Adhere to designated timelines and milestones.
@@ -20,7 +20,7 @@ To develope adequate knowledge and skills to implement any type of system and to
 ### UI/UX Design Planning
 
 #### Design Goals
-The goal of the UI/UX design for this AirBnB clone is to ensure that users have a friendly and engaging experience when interacting with the platform. 
+   The goal of the UI/UX design for this AirBnB clone is to ensure that users have a friendly and engaging experience when interacting with the platform. 
 
 #### Color Styles
 The following color styles are used in the design:
@@ -51,11 +51,10 @@ The typography is designed to provide readability.
   - **Line Height**: `20px`
 
   ####  importance of identifying design properties of a mock up design
-    - Identifying design properties in a mockup design is important for:
-Consistency in design process, Creating a visual hierarchy that helps users prioritize information, enhancing user experience, ensures responsiveness and scalability, increasing design efficiency by applying design rules uniformly, enhancing accessibility, and ensures the design is usable by all.
+      Identifying design properties in a mockup design is important for Consistency in design process, Creating a visual hierarchy that helps users prioritize information, enhancing user experience, ensures responsiveness and scalability, increasing design efficiency by applying design rules uniformly, enhancing accessibility, and ensures the design is usable by all.
   
 #### Project goals
-To have adequate knowledge and skills to implement any type of system and to:
+   To have adequate knowledge and skills to implement any type of system and to
 - Understand the project scope.
 - Identify key features to be implemented.
 - Adhere to designated timelines and milestones.
@@ -78,29 +77,29 @@ To have adequate knowledge and skills to implement any type of system and to:
 
   #### Importance of a user-friendly design in a booking system
 
-  A user-friendly design provides a seamless experience and increases user satisfaction. It makes navigation intuitive, and ensures users can easily book properties. A well-designed, responsive platform builds trust and encourages repeat usage, leading to higher retention and engagement.
+      A user-friendly design provides a seamless experience and increases user satisfaction. It makes navigation intuitive, and ensures users can easily book properties. A well-designed, responsive platform builds trust and encourages repeat usage, leading to higher retention and engagement.
 
  
  #### Project Roles and Responsibilities
 
 **Project Manager**: The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
-  Key Responsibilities:
+    Key Responsibilities:
 - Oversee project progress and ensure milestones are met.
--Facilitate communication within the team.
+- Facilitate communication within the team.
 - Manage project timelines, budget, and resources.
 - Identify and mitigate risks.
 - Serve as the primary point of contact for stakeholders.
 
    **Frontend Developers**: Frontend developers focus on the client-side of the application, ensuring a smooth and engaging user experience.
        Key Responsibilities:
-    -Implement UI/UX designs using HTML, CSS, and JavaScript.
+    - Implement UI/UX designs using HTML, CSS, and JavaScript.
     - Develop React components and integrate them with backend APIs.
     - Ensure the application is responsive and performs well on various devices.
     - Collaborate with designers to create visually appealing interfaces.
     - Optimize the application for maximum speed and scalability.
 
    **Backend Developers**: Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
-      Key Responsibilities:
+       Key Responsibilities:
     - Develop and maintain server-side logic using languages such as Python, Node.js, or Java.
     - Design and manage databases.
     - Create and maintain APIs for frontend integration.
@@ -108,7 +107,8 @@ To have adequate knowledge and skills to implement any type of system and to:
     - Optimize server performance and scalability.
 
    **Designers**: Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
-      Key Responsibilities:
+  
+       Key Responsibilities:
     - Create wireframes, mockups, and prototypes.
     - Design the layout and visual elements of the application.
     - Ensure a consistent brand identity across the application.
@@ -116,13 +116,16 @@ To have adequate knowledge and skills to implement any type of system and to:
     - Conduct usability testing to gather feedback and improve designs.
 
   **QA/Testers**: QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
+  
      Key Responsibilities:
    - Develop and execute test plans and test cases.
   - Perform manual and automated testing.
   - Identify, document, and track bugs.
   - Verify bug fixes and perform regression testing.
   - Ensure the application meets quality standards and user requirements.
+    
   **DevOps Engineers**: DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
+  
         Key Responsibilities:
      - Automate deployment processes.
      - Manage cloud infrastructure and server configurations.
@@ -131,6 +134,7 @@ To have adequate knowledge and skills to implement any type of system and to:
     - Ensure security and compliance in the production environment.
 
   **Product Owner**: The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
+  
        Key Responsibilities:
     - Define and prioritize product features and requirements.
     - Create and manage the product backlog.
@@ -139,6 +143,7 @@ To have adequate knowledge and skills to implement any type of system and to:
     - Make decisions on scope and accept completed work.
 
    **Scrum Master**: The Scrum Master facilitates Agile processes and helps the team follow Scrum practices.
+  
     Key Responsibilities:
      - Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
      - Remove impediments that hinder the team’s progress.
@@ -148,7 +153,7 @@ To have adequate knowledge and skills to implement any type of system and to:
 
 
 #### UI Component Patterns
-- These components are reusable building blocks that ensure consistency and efficiency across the application.
+    These components are reusable building blocks that ensure consistency and efficiency across the application.
   
 **Navbar**: the main navigation tool for the site. It helps users quickly access the most important sections of the application, such as search and login pages.
 
