@@ -124,7 +124,7 @@ The Airnob clone project is to give practical experience in developing a simple 
 
   **QA/Testers**: QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
   
-     Key Responsibilities:
+       Key Responsibilities:
    - Develop and execute test plans and test cases.
   - Perform manual and automated testing.
   - Identify, document, and track bugs.
@@ -133,7 +133,7 @@ The Airnob clone project is to give practical experience in developing a simple 
     
   **DevOps Engineers**: DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
   
-        Key Responsibilities:
+         Key Responsibilities:
      - Automate deployment processes.
      - Manage cloud infrastructure and server configurations.
      - Monitor application performance and uptime.
@@ -142,7 +142,7 @@ The Airnob clone project is to give practical experience in developing a simple 
 
   **Product Owner**: The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
   
-       Key Responsibilities:
+         Key Responsibilities:
     - Define and prioritize product features and requirements.
     - Create and manage the product backlog.
     - Act as a liaison between stakeholders and the development team.
@@ -151,7 +151,7 @@ The Airnob clone project is to give practical experience in developing a simple 
 
    **Scrum Master**: The Scrum Master facilitates Agile processes and helps the team follow Scrum practices.
   
-    Key Responsibilities:
+         Key Responsibilities:
      - Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
      - Remove impediments that hinder the team’s progress.
      - Foster a collaborative and productive team environment.
