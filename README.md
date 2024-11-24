@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/036690f2-ae1d-4ace-86c2-2880ea2c0100)# airbnb-clone-project
+
 
 ## Overview
 The Airnob clone project is to give practical experience in developing a simple booking and management system using AirBnB as a case study. A good booking system should have a simple but lovely UI/UX that allows users to perform basic functionalities.        
@@ -44,18 +44,18 @@ The typography is designed to provide readability.
   - **Font Size**: `18px`
   - **Line Height**: `35px`
 
-- **Footer Text**:
+ **Footer Text**:
   - **Font Family**: `Quicksand`
   - **Font Weight**: `400` (Regular)
   - **Font Size**: `12px`
   - **Line Height**: `20px`
 
   ####  importance of identifying design properties of a mock up design
-  Identifying design properties in a mockup design is important for:
+    - Identifying design properties in a mockup design is important for:
 Consistency in design process, Creating a visual hierarchy that helps users prioritize information, enhancing user experience, ensures responsiveness and scalability, increasing design efficiency by applying design rules uniformly, enhancing accessibility, and ensures the design is usable by all.
   
 #### Project goals
-To have adequate knowledge and skills to implement any type of system and to
+To have adequate knowledge and skills to implement any type of system and to:
 - Understand the project scope.
 - Identify key features to be implemented.
 - Adhere to designated timelines and milestones.
@@ -84,7 +84,7 @@ To have adequate knowledge and skills to implement any type of system and to
  #### Project Roles and Responsibilities
 
 **Project Manager**: The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
-     Key Responsibilities:
+  Key Responsibilities:
 - Oversee project progress and ensure milestones are met.
 -Facilitate communication within the team.
 - Manage project timelines, budget, and resources.
